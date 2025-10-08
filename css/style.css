@@ -14,13 +14,12 @@ header {
 nav a {
   color: white;
   margin-right: 100px;
-  padding: 300px;
   text-decoration: none;
   
 }
 
 button {
-  padding: 10px 20px;
+  padding: 100px 200px;
   background-color: #007BFF;
   border: none;
   color: white;
